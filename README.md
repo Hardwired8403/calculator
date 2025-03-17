@@ -46,5 +46,3 @@ case TOKEN_SQRT:
     stack[stack_ptr-1] = sqrt(stack[stack_ptr-1]);
     break;
 ```
-
-```
